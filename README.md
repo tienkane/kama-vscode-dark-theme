@@ -2,6 +2,8 @@
 
 A warm, low-contrast dark theme for VS Code, based on the brown / cream / gold palette of the **Kama** web app. Designed to be gentle on the eyes with a flat, borderless layout and clear tonal depth between sections.
 
+![Kama Dark theme preview](./images/preview.png)
+
 ## Features
 
 - 🤎 Warm brown background with soft cream text — easy on the eyes (editor contrast ~8.5:1, not the harsh 12:1+ of typical dark themes)

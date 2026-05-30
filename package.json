@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "tienkane",
   "license": "MIT",
+  "icon": "icon.png",
   "author": {
     "name": "Tien Nguyen",
     "email": "dinhtiennguyen.1202@gmail.com"

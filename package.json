@@ -1,0 +1,38 @@
+{
+  "name": "kama-dark",
+  "displayName": "Kama Dark",
+  "description": "Warm brown/cream/gold dark theme based on the Kama web app palette. Low-contrast, easy on the eyes, borderless flat layout.",
+  "version": "1.0.0",
+  "publisher": "tienkane",
+  "license": "MIT",
+  "author": {
+    "name": "Tien Nguyen",
+    "email": "dinhtiennguyen.1202@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "warm", "brown", "kama", "low-contrast"],
+  "galleryBanner": {
+    "color": "#1a1410",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tienkane/kama-vscode-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tienkane/kama-vscode-dark-theme/issues"
+  },
+  "homepage": "https://github.com/tienkane/kama-vscode-dark-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kama Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kama-dark-color-theme.json"
+      }
+    ]
+  }
+}
